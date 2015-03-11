@@ -1,4 +1,7 @@
+html{
+	background-color: Black;
+}
 h1{
-	color: Black;
+	color: White;
 	font-family: monospace;
 }
