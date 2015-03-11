@@ -1,8 +1,22 @@
-html{
+body{
 	background-color: Black;
+	border-spacing: 10px; 
+}
+html{
+	background-color: White;
 }
 h1{
 	color: White;
 	font-family: monospace;
 	text-align: center;
+}
+p{
+	text-align: left;
+	color: White;
+	font-family: monospace;
+}
+li{
+	color: White;
+	text-align: left;
+	font-family: monospace;
 }
